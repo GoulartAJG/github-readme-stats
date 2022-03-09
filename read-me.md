@@ -1,8 +1,3 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/GoulartAJG/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Estatísticas do Leiame do GitHub</h2>
- <p align="center">Obtenha estatísticas GitHub geradas dinamicamente em seus readmes!</p>
-</p>
   <p align="center">
     <a href="https://github.com/GoulartAJG/github-readme-stats/actions">
       <img alt="Testes aprovados" src="https://github.com/GoulartAJG/github-readme-stats/workflows/Test/badge.svg" />
@@ -59,22 +54,6 @@
 </p>
 <p align="center">Gostou do projeto? Por favor, considere <a href="https://www.paypal.me/GoulartAJG">doar</a> para ajudar a melhorar!
 
-
-<p>
-<a href="https://indiafightscorona.giveindia.org">
-<img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="200" />
-</a>
-
-Você está pensando em apoiar o projeto doando para mim? Por favor NÃO!!  
-
-Em vez disso, ajude a Índia a combater a segunda onda mortal de COVID,  
-Milhares de pessoas estão morrendo na Índia por falta de infraestrutura necessária relacionada a oxigênio e COVID.  
-
-Acesse [https://indiafightscorona.giveindia.org](https://indiafightscorona.giveindia.org) e faça uma pequena doação para nos ajudar a combater o covid e superar essa crise.   
-Sua pequena ajuda vai um longo caminho. :coração:
-</p>
-
-
 # Recursos
 
 - [Cartão de estatísticas do GitHub](#github-stats-card)
@@ -97,7 +76,7 @@ Copie e cole isso em seu conteúdo de markdown e pronto. Simples!
 Altere o valor `?username=` para o nome de usuário do seu GitHub.
 
 ``` md
-[![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=GoulartAJG)](https://github.com/GoulartAJG/github-readme-stats)
+[![Estatísticas do GitHub do Alan](https://github-readme-stats.vercel.app/api?username=GoulartAJG)](https://github.com/GoulartAJG/github-readme-stats)
 ```
 
 _Observação: as classificações disponíveis são S+ (1º superior), S (25º superior%), A++ (45º superior), A+ (60º superior) e B+ (todos).
@@ -111,7 +90,7 @@ Para ocultar quaisquer estatísticas específicas, você pode passar um parâmet
 > Opções: `&hide=stars,commits,prs,issues,contribs`
 
 ``` md
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=GoulartAJG&hide=contribs,prs)
+![Estatísticas do GitHub Alan](https://github-readme-stats.vercel.app/api?username=GoulartAJG&hide=contribs,prs)
 ```
 
 ### Adicionando a contagem de contribuições privadas à contagem total de commits
@@ -123,7 +102,7 @@ _Observação: Se você mesmo estiver implantando este projeto, as contribuiçõ
 > Opções: `&count_private=true`
 
 ``` md
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=GoulartAJG&count_private=true)
+![Estatísticas do GitHub Alan](https://github-readme-stats.vercel.app/api?username=GoulartAJG&count_private=true)
 ```
 
 ### Mostrando ícones
@@ -131,7 +110,7 @@ _Observação: Se você mesmo estiver implantando este projeto, as contribuiçõ
 Para habilitar ícones, você pode passar `show_icons=true` no parâmetro de consulta, assim:
 
 ``` md
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=GoulartAJG&show_icons=true)
+![Estatísticas do GitHub Alan](https://github-readme-stats.vercel.app/api?username=GoulartAJG&show_icons=true)
 ```
 
 ### Temas
@@ -141,7 +120,7 @@ Com temas embutidos, você pode personalizar a aparência do cartão sem fazer n
 Use o parâmetro `&theme=THEME_NAME` assim:-
 
 ``` md
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=GoulartAJG&show_icons=true&theme=radical)
+![Estatísticas do GitHub Alan](https://github-readme-stats.vercel.app/api?username=GoulartAJG&show_icons=true&theme=radical)
 ```
 
 #### Todos os temas embutidos: -
@@ -328,41 +307,41 @@ Altere o valor `?username=` para seu nome de usuário [Wakatime](https://wakatim
 
 - Predefinição
 
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=GoulartAJG)
+![Estatísticas do GitHub Alan](https://github-readme-stats.vercel.app/api?username=GoulartAJG)
 
 - Ocultar estatísticas específicas
 
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=GoulartAJG&hide=contribs,issues)
+![Estatísticas do GitHub Alan](https://github-readme-stats.vercel.app/api?username=GoulartAJG&hide=contribs,issues)
 
 - Mostrando ícones
 
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=GoulartAJG&hide=issues&show_icons=true)
+![Estatísticas do GitHub Alan](https://github-readme-stats.vercel.app/api?username=GoulartAJG&hide=issues&show_icons=true)
 
 - Personalizar a cor da borda
 
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=GoulartAJG&border_color=2e4058)
+![Estatísticas do GitHub Alan](https://github-readme-stats.vercel.app/api?username=GoulartAJG&border_color=2e4058)
 
 - Incluir todos os commits
 
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=GoulartAJG&include_all_commits=true)
+![Estatísticas do GitHub Alan](https://github-readme-stats.vercel.app/api?username=GoulartAJG&include_all_commits=true)
 
 - Temas
 
 Escolha um dos [temas padrão](#themes)
 
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=GoulartAJG&show_icons=true&theme=radical)
+![Estatísticas do GitHub Alan](https://github-readme-stats.vercel.app/api?username=GoulartAJG&show_icons=true&theme=radical)
 
 - Gradiente
 
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=GoulartAJG&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Estatísticas do GitHub Alan](https://github-readme-stats.vercel.app/api?username=GoulartAJG&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Personalização do cartão de estatísticas
 
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api/?username=GoulartAJG&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Estatísticas do GitHub Alan](https://github-readme-stats.vercel.app/api/?username=GoulartAJG&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Configurando a localidade do cartão
 
-![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api/?username=GoulartAJG&locale=es)
+![Estatísticas do GitHub Alan](https://github-readme-stats.vercel.app/api/?username=GoulartAJG&locale=es)
 
 - Personalizando o cartão de recompra
 
